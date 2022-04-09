@@ -1,5 +1,6 @@
+ # Home Work
  - WE ARE GOING TO THE ZOO (from home)
- please crete the folowing classes.
+ -  please crete the folowing classes.
  
  animle : seaAnimle, pets, birds
  cat, dog, pinguin, eagle, shark fish, 
