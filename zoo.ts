@@ -126,5 +126,6 @@ let myDog = new Dog('chapi',"matan",false,4);
 let myCat = new Cat('metzi',"matan",true,4);
 let myPinguin = new Pinguin(true,true);
 let myFish = new Fish('nemo',false,true);
-
+let zoo = Zoo.getShredInstance()
+zoo.addAnimale(myFish)
 // console.log(myDog.nickname,myCat.legs,myPinguin.haveStone,myFish.canEscape);
